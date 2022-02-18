@@ -1,7 +1,7 @@
 ---
 title: Shubham Wani
 role: Graduate Student in Data Science
-avatar_filename: profile.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
