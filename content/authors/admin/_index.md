@@ -2,8 +2,7 @@
 title: Shubham Wani
 role: Graduate Student in Data Science
 avatar_filename: profile.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Machine Learning
   - Data Analysis
@@ -34,6 +33,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a graduate student in Data Science at Rochester Institute Of Technology. My interests lie in Machine Learning, Data Mining, Cloud Computing. Welcome to my portfolio page, wherein you will find my projects and professional experience.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+During my two years of professional experience at Wipro Technologies, I contributed towards making solutions for clients which are scalable using the google cloud platform.
+
+Additionally, I have been a consistent top performer in my graduate courses with a current overall GPA of 4.00. It is a testimony of my dedication, hard work, and consistency in learning. I am currently looking for internship positions in machine learning, software engineering, data science.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/Shubham_Wani_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
