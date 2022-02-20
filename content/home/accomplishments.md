@@ -35,6 +35,6 @@ subtitle: null
 design:
   columns: "2"
   background:
-    image: https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/14107278
+    image: ""
 ---
 Google Cloud - Associate Cloud Engineer 
