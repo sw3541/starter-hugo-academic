@@ -4,7 +4,7 @@ active: true
 author: admin
 widget_id: About Me
 headless: true
-weight: 0
+weight: 30
 title: About Me
 design:
   columns: "2"
