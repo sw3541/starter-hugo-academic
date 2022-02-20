@@ -7,7 +7,7 @@ headless: true
 weight: 20
 title: About Me
 design:
-  columns: "1"
+  columns: "2"
 ---
 <!--StartFragment-->
 
