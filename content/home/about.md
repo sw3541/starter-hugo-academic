@@ -1,11 +1,13 @@
 ---
 widget: about
+active: true
+author: admin
 widget_id: About Me
 headless: true
 weight: 20
 title: About Me
-active: true
-author: admin
+design:
+  columns: ""
 ---
 <!--StartFragment-->
 
