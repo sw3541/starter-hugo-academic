@@ -8,7 +8,7 @@ experience:
     company_url: https://www.rit.edu/
     location: Rochester, NY
     date_start: 2022-01-14
-    date_end: Present
+    date_end: ''
     description: >-
       • Conducting doubt solving sessions for the students in software development and problem-solving course in Java and Python.
       • Courses Covered - GCIS 120, 123, 124.
