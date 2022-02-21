@@ -1,7 +1,7 @@
 ---
 title: Shubham Wani
 role: Graduate Student in Data Science
-avatar_filename: ""
+avatar_filename: profile.jpg
 bio: ""
 interests:
   - Machine Learning
@@ -28,7 +28,7 @@ education:
       year: ""
     - course: B.Tech in Electrical Engineering
       institution: Veermata Jijabai Technological Institute
-      year: 2018
+      year: 2019
 email: sw3541@rit.edu
 superuser: true
 highlight_name: true
@@ -43,4 +43,4 @@ Additionally, I have been a consistent top performer in my graduate courses with
 
 <!--EndFragment-->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/Shubham_Wani_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/sw3541/starter-hugo-academic/blob/master/assets/media/Shubham_Wani_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
